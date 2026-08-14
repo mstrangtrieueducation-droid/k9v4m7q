@@ -16,10 +16,10 @@ const sections = [
     input("B4", "4. The ___ are next to the bush.", ["roses"], "Roses là những bông hoa hồng. Are cho biết danh từ ở số nhiều.") ] },
 
   { letter: "C", title: "Look and complete the words.", note: "Nhìn tranh và hoàn thành đúng bốn từ chỉ đồ vật trong công viên.", points: 4, questions: [
-    input("C1", "1. a f _ _ _ _ _ _", ["fountain"], "Fountain nghĩa là đài phun nước.", A + "page1-img3-909x649.png"),
-    input("C2", "2. a b _ _ _", ["bench"], "Bench nghĩa là ghế dài trong công viên.", A + "page1-img3-909x649.png"),
-    input("C3", "3. a s _ _ _ _ _", ["statue"], "Statue nghĩa là bức tượng.", A + "page1-img8-902x649.png"),
-    input("C4", "4. a b _ _ _", ["bush"], "Bush nghĩa là bụi cây.", A + "page1-img8-902x649.png") ] },
+    input("C1", "1a. f _ _ _ _ _ _", ["fountain"], "Hình 1a là đài phun nước. Từ bắt đầu bằng f và hoàn chỉnh là fountain.", A + "page1-img3-909x649.png"),
+    input("C2", "1b. b _ _ _", ["bench"], "Hình 1b là ghế dài trong công viên. Từ bắt đầu bằng b và hoàn chỉnh là bench.", A + "page1-img3-909x649.png"),
+    input("C3", "2a. s _ _ _ _ _", ["statue"], "Hình 2a là bức tượng. Từ bắt đầu bằng s và hoàn chỉnh là statue.", A + "page1-img8-902x649.png"),
+    input("C4", "2b. b _ _ _", ["bush"], "Hình 2b là bụi cây. Từ bắt đầu bằng b và hoàn chỉnh là bush.", A + "page1-img8-902x649.png") ] },
 
   { letter: "D", title: "Look and complete the sentences. Use can and can't.", note: "Quan sát tranh rồi chọn can hoặc can't để hoàn thành câu.", points: 4, questions: [
     choice("D1", "1. She ___ ride a bicycle.", ["can", "can't"], "can't", "Bạn nữ đang loạng choạng và chưa điều khiển được xe, nên dùng can't: không thể đi xe đạp.", A + "page2-img5-416x297.png"),
