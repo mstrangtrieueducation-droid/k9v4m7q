@@ -125,7 +125,7 @@ const sections = [
       {
         "id": "C1",
         "type": "input",
-        "prompt": "1a. f _ _ _ _ _ _",
+        "prompt": "1a. f _ u _ _ _ _ _",
         "answers": [
           "fountain"
         ],
@@ -135,7 +135,7 @@ const sections = [
       {
         "id": "C2",
         "type": "input",
-        "prompt": "1b. b _ _ _",
+        "prompt": "1b. b _ _ _ _",
         "answers": [
           "bench"
         ],
@@ -145,7 +145,7 @@ const sections = [
       {
         "id": "C3",
         "type": "input",
-        "prompt": "2a. s _ _ _ _ _",
+        "prompt": "2a. s _ a _ _ _",
         "answers": [
           "statue"
         ],
@@ -446,7 +446,7 @@ const sections = [
       {
         "id": "H1",
         "type": "input",
-        "prompt": "1. _ o  _ _ / _ _  _ d",
+        "prompt": "1. _ o _ _   _ _ d",
         "answers": [
           "go to bed"
         ],
